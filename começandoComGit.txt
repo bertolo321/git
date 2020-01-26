@@ -1,0 +1,14 @@
+git init: inicia um repositorio
+
+touch + nome do arquivo cria um arquivo
+
+***	
+O comando touch é a maneira mais fácil de criar arquivos novos e vazios . Também é usado para alterar os carimbos de data / hora (datas e horas do acesso e modificação mais recentes) nos arquivos e diretórios existentes .
+
+git add + arquivo marca onde começou o projeto
+
+git add
+
+***
+DESCRIÇÃO
+Este comando atualiza o índice usando o conteúdo atual encontrado na árvore de trabalho, para preparar o conteúdo preparado para a próxima confirmação. Normalmente, ele adiciona o conteúdo atual dos caminhos existentes como um todo, mas com algumas opções também pode ser usado para adicionar conteúdo com apenas parte das alterações feitas nos arquivos da árvore de trabalho aplicados ou remover caminhos que não existem na árvore de trabalho
